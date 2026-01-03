@@ -1,0 +1,253 @@
+# Please feel free to contribute to additional translation.
+# Copy this file and rename it to your language code.
+# Then translate the values.
+[404PageNotFound]
+    other = "Seite nicht gefunden"
+[404Alert]
+    other = "Diese Seite leitet absichtlich weiter"
+[404ReturnHome]
+    other = "zurück zur Startseite"
+[accessibility]
+    other = "Barrierefreiheit"
+[accessTime]
+    other = "Diese Seite wurde aufgerufen am"
+[allPosts]
+    other = "Alle Beiträge"
+[appearance]
+    other = "Erscheinungsbild"
+[articles]
+    one = "Artikel"
+    other = "Artikel"
+[audio]
+    other = "Audio"
+[author]
+    one = "Autor"
+    other = "Autoren"
+[back]
+    other = "Zurückgehen"
+[baselineStretch]
+    other = "Baseline-Stretch"
+[bionRead]
+    other = "BionRead-Modus"
+[breadcrumb]
+    other = "Breadcrumb"
+[buildTime]
+    other = "Diese Seite wurde erstellt am"
+[bypass]
+    other = "Umgehen"
+[categories]
+    one = "Kategorie"
+    other = "Kategorien"
+[close]
+    other = "Schließen"
+[coffeeStat]
+    other = "Kaffee-Statistik"
+[coffeeCount]
+    other = "Erstellt mit ❤️ und "
+[coffeeCountPost]
+    other = ", falls nicht mehr."
+[colophon]
+    other = "Colophon"
+[colorPalette]
+    other = "Farbenpalette"
+[colorSettings]
+    other = "Farbeinstellungen"
+[comments]
+    other = "Diskussion"
+[contrast]
+    other = "Kontrast"
+[contrib]
+    other = "Beitragen"
+[contribAskReader]
+    other = "Genießen Sie diesen Artikel?"
+[contribAskReaderResponse]
+    other = "Großartig!"
+[contribAskReaderToContribute]
+    one = "Sie können mich auch unterstützen, indem Sie die folgenden Beiträge leisten:"
+    other = "Sie können uns auch unterstützen, indem Sie die folgenden Beiträge leisten:"
+[contribCoffeeStat]
+    other = "Wussten Sie, dass"
+[contribCoffeeStatPost]
+    one = "mich bei der Erstellung dieses Artikels unterstützt hat?"
+    other = "uns bei der Erstellung dieses Artikels unterstützt hat?"
+[copy]
+    other = "URL kopieren"
+[copying]
+    other = "Kopieren..."
+[ctaComments]
+    other = "Diskussion beitreten"
+[cup]
+    one = "Tasse Kaffee"
+    other = "Tassen Kaffee"
+[currentLang]
+    other = "Aktuelle Sprache ist"
+[dark]
+    other = "Dunkel"
+[darkMode]
+    other = "Dunkler Modus"
+[defaultColor]
+    other = "Standard"
+[defaultContrast]
+    other = "Standard"
+[deuteranopia]
+    other = "Deuteranopie"
+[discover]
+    other = "Themen entdecken"
+[editedBy]
+    other = "Bearbeitet von"
+[email]
+    other = "E-Mail"
+[featuredImg]
+    other = "Beitragsbild"
+[fediverseBluesky]
+    other = "Antwort mit Bluesky"
+[fediverseErr]
+    other = "Fehler beim Laden der Kommentare"
+[fediverseIsLoading]
+    other = "Kommentare auf Fediverse werden geladen"
+[fediverseReplies]
+    one = "Antwort"
+    other = "Antworten"
+[fediverseReblogs]
+    one = "Reblog"
+    other = "Reblogs"
+[fediverseFavourites]
+    one = "Favorit"
+    other = "Favoriten"
+[focusMode]
+    other = "Fokusmodus"
+[followRSS]
+    other = "Mit RSS folgen"
+[fontSize]
+    other = "Schriftgröße"
+[home]
+    other = "Startseite"
+[ifNoAudioSupport]
+    other = "Ihr Browser unterstützt das Audio-Element nicht."
+[in]
+    other = "in"
+[inNewTab]
+    other = "in neuem Tab"
+[keepInTouch]
+    other = "Bleiben wir in Kontakt!"
+[lessContrast]
+    other = "Niedrig"
+[light]
+    other = "Hell"
+[main]
+    other = "Hauptmenü"
+[marginpar]
+    other = "Zusätzliche Notizen"
+[menuControls]
+    other = "Barrierefreiheitsmenü-Steuerelemente"
+[modified]
+    other = "Geändert"
+[monochrome]
+    other = "Monochrom"
+[more]
+    other = "Mehrmenü"
+[moreContrast]
+    other = "Hoch"
+[nav]
+    other = "Navigation"
+[networkGraph]
+    other = "Inhaltsnetzwerk-Graph"
+[next]
+    other = "Weiter"
+[noArticle]
+    other = "Keine Artikel zum Anzeigen."
+[noArticlePost]
+    other = "Es scheint, als hätte unser Autor keinen Kaffee mehr... Bleiben Sie ruhig, wir kochen gleich einen!"
+[noComment]
+    other = "Keine Kommentare anzuzeigen."
+[noGiscus]
+    other = "Giscus erfordert JavaScript und LocalStorage, um aktiviert zu werden."
+[noScript]
+    other = "Uh-oh... JavaScript ist deaktiviert!"
+[noLocalStorage]
+    other = "LocalStorage ist in Ihrem Browser nicht verfügbar. Einstellungen werden nicht gespeichert."
+[note]
+    other = "Hinweis"
+[on]
+    other = "Ein"
+[OpenDyslexic]
+    other = "OpenDyslexic-Schriftart verwenden"
+[optimizeSR]
+    other = "Optimierung für Bildschirmleser"
+[optimizeSRDesc]
+    other = "Anzeige und Ressourcen für Bildschirmleser optimieren, die mit einem Zeigegerät navigieren."
+[pages]
+    one = "Seite"
+    other = "Seiten"
+[pagination]
+    other = "Seitennummerierung"
+[posts]
+    one = "Beitrag"
+    other = "Beiträge"
+[postsBy]
+    other = "Beitrag von"
+[postsOn]
+    other = "Beiträge am"
+[poweredBy]
+    other = "Angetrieben von"
+[prev]
+    other = "Zurück"
+[print]
+    other = "Drucken"
+[protanopia]
+    other = "Protanopie"
+[published]
+    other = "Veröffentlicht"
+[readingTime]
+    other = "Min. Lesezeit"
+[recent]
+    other = "Aktuelle Beiträge"
+[redactionHistory]
+    other = "Redaktionshistorie"
+[redactionNotes]
+    other = "Einige Informationen können sich im Laufe der Zeit ändern, wir halten die Redaktion aktuell."
+[related]
+    other = "Sie könnten auch mögen"
+[reset]
+    other = "Zurücksetzen"
+[reviewedBy]
+    other = "Überprüft von"
+[save]
+    other = "Speichern"
+[search]
+    other = "Suchen"
+[seeAll]
+    other = "Alle ansehen"
+[seeMore]
+    other = "Mehr Themen erkunden"
+[section]
+    other = "Abschnitt"
+[selectLang]
+    other = "Sprachauswahl"
+[series]
+    other = "Serien"
+[share]
+    other = "Teilen"
+[shareOn]
+    other = "Teilen auf"
+[slide]
+    one = "Folien"
+    other = "Folien"
+[stage]
+    one = "Szenen"
+    other = "Szenen"
+[switchLangTo]
+    other = "Sprache wechseln zu"
+[TableOfContents]
+    other = "Inhaltsverzeichnis"
+[tags]
+    one = "Tag"
+    other = "Tags"
+[toContent]
+    other = "Zum Hauptinhalt springen"
+[toTop]
+    other = "Zum Inhaltstopp"
+[top-nav]
+    other = "Oben"
+[tritanopia]
+    other = "Tritanopie"
